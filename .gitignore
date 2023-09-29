@@ -5,7 +5,6 @@ target/
 
 ./test/
 ./src/test/
-/src/test/
 .idea
 ### IntelliJ IDEA ###
 .idea/modules.xml
